@@ -15,7 +15,7 @@ The data comes from [Kaggle - The Olympic History Dataset](https://www.kaggle.co
 ## Content
 
 - Unique athlete participation over the years
-- Medal and Eventsdistribution by country
+- Medal and Events distribution by country
 - Medals per event ratio (to distinguish team vs individual dominance)
 - Age distribution of medal winners
 - Evolution of athlete participation (Summer/Winter)
