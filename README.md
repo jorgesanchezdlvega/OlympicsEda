@@ -46,6 +46,6 @@ This project includes visualizations using Seaborn and Matplotlib, such as:
 1. Clone the repo
 2. Create a conda environment:
    ```bash
-   conda create -n olympics python=3.11
+   conda create -n olympics python=3.10
    conda activate olympics
    pip install -r requirements.txt
