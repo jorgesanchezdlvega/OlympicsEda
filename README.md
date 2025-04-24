@@ -19,7 +19,7 @@ The data comes from [Kaggle - The Olympic History Dataset](https://www.kaggle.co
 - Medals per event ratio (to distinguish team vs individual dominance)
 - Age distribution of medal winners
 - Evolution of athlete participation (Summer/Winter)
-- 
+- Athlete medal winners
 
 ---
 
